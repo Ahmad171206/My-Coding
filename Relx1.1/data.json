@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Boba Iced Coffee",
+        "description": "A rich, refreshing iced coffee combined with chewy tapioca pearls. Perfect for a bold caffeine kick with a fun twist.",
+        "price": "RM 9.90",
+        "image": "images/bobaiced.jpg"
+    },
+    {
+        "name": "Matcha Latte Der",
+        "description": "Smooth Japanese matcha blended with creamy milk over ice. Earthy, energizing, and naturally sweet.",
+        "price": "RM 10.90",
+        "image": "images/matcha2.jpeg"
+    },
+    {
+        "name": "Oolong Iced Tea",
+        "description": "Light and floral cold-brewed oolong with citrus notes. A refreshing pick.",
+        "price": "RM 8.50",
+        "image": "images/oolong.jpg"
+    },
+    {
+        "name": "Americano",
+        "description": "Classic hot black coffee made from imported beans from Italy. A rich espresso and hot water.",
+        "price": "RM 6.50",
+        "image": "images/americano.jpg"
+    },
+    {
+        "name": "Cappuccino",
+        "description": "A rich shot of espresso blanketed by silky steamed milk and crowned with cloud-like foam finished with a whisper of cocoa powder.",
+        "price": "RM 8.50",
+        "image": "images/capuccino.jpg"
+    },
+    {
+        "name": "Croissant",
+        "description": "Golden and buttery, with a crisp outer layer that gives way to soft, airy layers inside. Baked fresh and made to be devoured.",
+        "price": "RM 6.00",
+        "image": "images/croissant.webp"
+    },
+    {
+        "name": "Delicious Tiramisu",
+        "description": "Espresso-drenched sponge layered with silky mascarpone cream and finished with a generous sprinkle of cocoa. Pure Italian elegance in every bite.",
+        "price": "RM 11.30",
+        "image": "images/tiramisu.jpg"
+    },
+    {
+        "name": "Biscoff Cheesecake",
+        "description": "Luxuriously creamy cheesecake infused with caramelized Biscoff spread and topped with a crunchy cookie crumble for that perfect bite.",
+        "price": "RM 12.70",
+        "image": "images/lotus.jpg"
+    },
+    {
+        "name": "Sando Strawberry",
+        "description": "Soft, pillowy milk bread generously filled with sweet whipped cream and juicy strawberries. A delicate, picture-perfect treat that tastes as good as it looks.",
+        "price": "RM 5.50",
+        "image": "images/sando.jpg"
+    }
+]
